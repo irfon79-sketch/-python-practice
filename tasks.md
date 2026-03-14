@@ -1,8 +1,8 @@
 ## STO
 
 [x] task_01_sto_profit.py
-[] task_02_lkm cost.py
-[] task_03_thinner_cost.py
+[x] task_02_lkm cost.py
+[x] task_03_thinner_cost.py
 [] task_04_paint_total.py
 [] task_05_master_income.py
 [] task_06_sto_margin.py
