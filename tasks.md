@@ -152,3 +152,87 @@
 
 ### Block 4 - Algoritmic thinking
 
+[] task_16_square.py
+[] task_17_cube.py
+[] task_18_distance.py
+[] task_19_speed.py
+[] task_20_density.py
+
+### Block 5 - Strings
+
+[] task_21_word_length.py
+[] task_22_full_name.py
+[] task_23_first_letter.py
+[] task_24_last_letter.py
+[] task_25_join_words.py
+
+### Block 6 - Programmer brain
+
+[] task_26_days_to_hours.py
+[] task_27_hours_to_minutes.py
+[] task_28_minutes_to_seconds.py
+[] task_29_days_to_seconds.py
+[] task_30_progress.py
+
+
+## Core
+
+### Math
+[] task_01_rectangle_perimeter.py
+[] task_02_ractangle_area.py
+[] task_03_triangle_area.py
+[] task_04_circle_circumference.py
+[] task_05_km_to_m.py
+[] task_06_m_to_km.py
+[] task_07_kg_to_gr.py
+[] task_08_gr_to_kg.py
+[] task_09_percent_of.py
+[] task_10_percent_change.py
+
+### Finance
+[] task_11_profit.py
+[] task_12_margin_percent.py
+[] task_13_price_with_vat.py
+[] task_14_price_without_vat.py
+[] task_15_loan_cost.py
+[] task_16_monthly_paymant.py
+[] task_17_yearly_income.py
+[] task_18_profit_per_unit.py
+[] task_19_roi.py
+[] task_20_break_even.py
+
+### Logic
+[] task_21_is_positive.py
+[] task_22_is_negative.py
+[] task_23_is_zero.py
+[] task_24_max_of_four.py
+[] task_25_min_number.py
+[] task_26_divisible_by_three.py
+[] task_27_divisible_by_five.py
+[] task_28_in_range.py
+[] task_29_is_equal.py
+[] task_30_absolute.py
+
+### Strings
+[] task_31_to_upper.py
+[] task_32_to_lower.py
+[] task_33_count_a.py
+[] task_34_starts_with.py
+[] task_35_ens_with.py
+[] task_36_join_three.py
+[] task_37_repeat_word.py
+[] task_38_first_three.py
+[] task_39_last_three.py
+[] task_40_char_count.py
+
+### Programming Brain
+[] task_41_days_between.py
+[] task_42_average_task_time.py
+[] task_43_learning_rate.py
+[] task_44_tasks_per_month.py
+[] task_45_tasks_per_year.py
+[] task_46_project_duration.py
+[] task_47_completion_percent.py
+[] task_48_tasks_per_week.py
+[] task_49_time_to_finish.py
+[] task_50_total_learning_hours.py
