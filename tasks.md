@@ -1,8 +1,8 @@
 ## STO
 
-[x] task_01_sto_profit.py
-[x] task_02_lkm cost.py
-[x] task_03_thinner_cost.py
+[x] task_01_sto_profit.py - 'calculate_profit(client_price, vastr_percent, materials_cost)'- чистая прибыль с детали
+[x] task_02_lkm cost.py - 'calculate_lkm_cost(grams_base, price_per_gram)' - стоимость краски 
+[x] task_03_thinner_cost.py - 'calculate_thinner_cost(base_cost, thinner_percent)' - стоимость разбавителя
 [] task_04_paint_total.py
 [] task_05_master_income.py
 [] task_06_sto_margin.py
@@ -124,3 +124,31 @@
 [] task_13_weekly_tasks.py
 [] task_14_yearly_hours.py
 [] task_15_skill_growth.py
+
+## MIT
+
+### Block 1 - Numbers and calculations
+
+[] task_01_celsius_to_fahrenheit.py
+[] task_02_seconds_to_hours.py
+[] task_03_circle_area.py
+[] task_04_cylinder_volume.py
+[] task_05_average.py
+
+### Block 2 - Finance
+[] task_06_compound_interest.py
+[] task_07_monthly_income.py
+[] task_08_tax.py
+[] task_09_discount.py
+[] task_10_broker_fee.py
+
+### Block 3 - Logic and conditions
+
+[] task_11_ is_adult.py
+[] task_12_ is even.py
+[] task_13_number_sign.py
+[] task_14_max_number.py
+[] task_15_max_of_three.py
+
+### Block 4 - Algoritmic thinking
+
