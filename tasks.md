@@ -1,6 +1,6 @@
 ## STO
 
-[] task_01_sto_profit.py
+[x] task_01_sto_profit.py
 [] task_02_lkm cost.py
 [] task_03_thinner_cost.py
 [] task_04_paint_total.py
